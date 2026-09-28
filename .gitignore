@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+
+# Logs & Debugging
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Database & Uploaded files (تجاهل قاعدة البيانات والصور المرفوعة)
+attendance.db
+uploads/
+
+# Build files
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+
+# Operating system files
+.DS_Store
+Thumbs.db
